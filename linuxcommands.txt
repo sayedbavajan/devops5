@@ -2,10 +2,9 @@
 2.	mkdir = make directory (create folder) (EX: mkdir demo)
 3.	touch = create the files (EX: touch filename)
 4.	cd = change directory (Ex: cd movies)
-5.	ls = list of files
 6.	ls -a = list of hidden files
 7.	ls -ll = long list of all files (ll = longlist)
 8.	cp source destination (EX: cp abcd.txt  123.txt)
 9.	mv source destination (By using this we can rename and move the files)
-Ex: mv abcd.txt myfile.txt     or.   mv abcd.txt  c/user/username/foldename
-10.	rm filename (we can delete the file)
+10.     adding new content  for practice purpose 
+11.     adding one more line to linux commands file
